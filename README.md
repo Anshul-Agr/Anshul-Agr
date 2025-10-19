@@ -33,7 +33,7 @@ My primary software project is a high-fidelity discrete-event simulation built i
 *   **Key Features:** Models queuing networks (M/M/c, Jackson), advanced inventory policies (EOQ, s,S), OEE/KPI tracking, machine breakdowns, and includes an interactive dashboard for analysis.
 *   **Technologies:** Python, SimPy, Pandas, NumPy, Streamlit, FastAPI.
 
-➡️ **[View the Project and Full Documentation Here](https://github.com/Anshul-Agr/factory-sim)**
+➡️ **[View the Project and Full Documentation Here](https://github.com/Anshul-Agr/factory-simulation)**
 
 ---
 
